@@ -1,0 +1,16 @@
+{
+"users":[
+{"id": 1, "name": "Marines Mendez", "username": "MGMarines", "email": "marines@codigofacilito.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"},
+{"id": 2, "name": "Jose Gallego", "username": "MGMarines", "email": "marines@codigofacilito.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"},
+{"id": 3, "name": "Chus", "username": "MGMarines", "email": "marines@codigofacilito.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"}
+],
+  "posts": [
+    { "id": 1, "title": "Eurofic", "body": "empresa de software icg", "useriId": 1 },
+    { "id": 2, "title": "Post 2", "body": "Este es el cuerpo del post 2", "userId": 2 },
+    { "id": 3, "title": "Post 3", "body": "Cuerpo del post3", "userId": 3 }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
+}
